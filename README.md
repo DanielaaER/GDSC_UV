@@ -1,5 +1,7 @@
 # GDSC UV
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](Code_Of_Conduct.md)
+
 Welcome to the First Google Developer Student Club of the Universidad Veracruzana!!! We are a group of students motivated to teach knowledge in the Tech area, so that more people can develop their skills in software development.
 
 Follow us on our social networks where we will be uploading the news about future events.
